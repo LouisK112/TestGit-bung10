@@ -10,6 +10,8 @@ import java.util.*;
  *
  *Hier wurde das etwas hinzugefügt
  * das ist die zweite Sache die hinzugefügt wurde
+ * 
+ * Hier wurde von workspace 2 was geändert
  */
 public class NewsletterDatabase implements Database {
 
