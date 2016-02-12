@@ -8,6 +8,7 @@ import java.util.*;
 /**
  * @author Louis
  *
+ *Hier wurde das etwas hinzugefügt
  */
 public class NewsletterDatabase implements Database {
 
